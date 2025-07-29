@@ -50,8 +50,4 @@ new MyPromise((res, rej) => {
 - Handle async error propagation.
 - Optional: Build a task queue to make it more like native JS promises.
 
-🔥 Summary:
-Rebuilt a core JS feature from scratch — improved deep understanding of asynchronous execution, closures, and object-oriented programming.
 
-— Viky 🚀
-*/
