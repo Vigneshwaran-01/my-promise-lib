@@ -5,7 +5,7 @@ class Mypromise{
         this.reason=undefined;
         this.thenCallbacks=[];
 
-
+ 
         const resolve= (val)=>{
              if(this.state =="pending"){
                 this.value=val;
